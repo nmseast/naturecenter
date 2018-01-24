@@ -8,3 +8,9 @@ We created a virtual reality tour of the Crowley's Ridge Nature Center in Jonesb
 
 <script src='//vizor.io/static/scripts/vizor-360-embed.js' data-vizorurl='//vizor.io/embed/nmseast/crowley-s-ridge-nature-center'></script>
 
+
+<script src="//vizor.io/static/scripts/vizor-360-embed.js"></script>
+<script src="github-embed.min.js"></script>
+<script>
+    githubEmbed('.element', settings);
+</script>
