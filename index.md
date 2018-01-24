@@ -14,10 +14,3 @@ Check back for updates as we add closeup images of each exhibit. You can email u
 Have fun exploring! 
 
 <script src='//vizor.io/static/scripts/vizor-360-embed.js' data-vizorurl='//vizor.io/embed/nmseast/crowley-s-ridge-nature-center'></script>
-
-
-<script src="//vizor.io/static/scripts/vizor-360-embed.js"></script>
-<script src="github-embed.min.js"></script>
-<script>
-    githubEmbed('.element', settings);
-</script>
